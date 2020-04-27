@@ -2,7 +2,7 @@
 
 #### 1. Clone the repo
 
-1. git clone https://github.com/chimajdev/csvToJSON
+i. git clone https://github.com/chimajdev/csvToJSON
 
 #### 2. problem3.sh
 i. Run the command 'bash problem3.sh'
